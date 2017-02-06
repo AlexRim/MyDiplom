@@ -1,1 +1,11 @@
 E:\MyDiplom\MyDiplom\MyDiplom\bin\Debug\MyDiplom.exe.config
+E:\MyDiplom\MyDiplom\MyDiplom\bin\Debug\MyDiplom.exe
+E:\MyDiplom\MyDiplom\MyDiplom\bin\Debug\MyDiplom.pdb
+E:\MyDiplom\MyDiplom\MyDiplom\obj\Debug\MyDiplom.csprojResolveAssemblyReference.cache
+E:\MyDiplom\MyDiplom\MyDiplom\obj\Debug\MyDiplom.Form1.resources
+E:\MyDiplom\MyDiplom\MyDiplom\obj\Debug\MyDiplom.Properties.Resources.resources
+E:\MyDiplom\MyDiplom\MyDiplom\obj\Debug\MyDiplom.csproj.GenerateResource.Cache
+E:\MyDiplom\MyDiplom\MyDiplom\obj\Debug\MyDiplom.exe
+E:\MyDiplom\MyDiplom\MyDiplom\obj\Debug\MyDiplom.pdb
+E:\MyDiplom\MyDiplom\MyDiplom\obj\Debug\MyDiplom.UserControl1.resources
+E:\MyDiplom\MyDiplom\MyDiplom\obj\Debug\MyDiplom.UserControl2.resources
